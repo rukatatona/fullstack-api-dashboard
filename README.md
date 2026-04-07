@@ -21,3 +21,8 @@ This project demonstrates my ability to build full-stack applications with scala
 
 ## About Me
 I’m a Software Engineer with 6+ years of experience working on backend systems, APIs, and cloud-based applications.
+## Future Improvements
+
+- Add real-time streaming support
+- Improve scalability with distributed processing
+- Add monitoring and data quality checks
